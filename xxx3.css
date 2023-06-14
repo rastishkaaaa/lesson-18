@@ -1,0 +1,20 @@
+* {
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+
+.cnv {
+   display: flex;
+   margin: 40px auto;
+}
+
+.cnvs {
+   display: flex;
+   margin: 50px auto;
+   background: rgb(224, 220, 220);
+}
+
+canvas {
+   color: darkred;
+}
